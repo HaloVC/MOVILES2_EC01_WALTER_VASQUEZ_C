@@ -29,7 +29,10 @@ class MainActivity : ComponentActivity() {
             NavHost(navController = navController, startDestination = "menu") {
                 composable("menu") { MenuScreen(navController) }
                 //composable("promedio") { PromedioScreen() }
-                composable("promedio") { JubilacionScreen() }
+                composable("jubilacion") { JubilacionScreen() }
+                composable("numero_menor") { CalcularMenorScreen() }
+                composable("matricula") { MatriculaScreen() }
+
                 // Agrega aquí las demás pantallas según sea necesario
             }
 

@@ -36,7 +36,7 @@ fun MenuScreen(navController: NavController) {
             MySpace(16)
             Button(
                 onClick = {
-                    navController.navigate("promedio")
+                    navController.navigate("jubilacion")
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color(0xFF00CC99),
@@ -56,7 +56,7 @@ fun MenuScreen(navController: NavController) {
             MySpace(16)
             Button(
                 onClick = {
-                    // Navega a otra pantalla
+                    navController.navigate("numero_menor")
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color(0xFF00CC99	),
@@ -76,7 +76,7 @@ fun MenuScreen(navController: NavController) {
             MySpace(16)
             Button(
                 onClick = {
-                    // Navega a otra pantalla
+                    navController.navigate("matricula")
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color(0xFF00CC99),
@@ -91,7 +91,8 @@ fun MenuScreen(navController: NavController) {
             MySpace(16)
             Button(
                 onClick = {
-                    // Navega a otra pantalla
+                    navController.navigate("")
+
                 },
                 colors = ButtonDefaults.buttonColors(
                     containerColor = Color(0xFF299116),

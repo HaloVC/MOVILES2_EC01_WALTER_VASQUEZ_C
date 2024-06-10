@@ -7,3 +7,7 @@ o
 ?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta01.kt,3\a\3a39485acc6b1dcc59db2bb7be385a8a81f17f7d
 q
 Aapp/src/main/java/pe/edu/idat/ec01_walter_vasquez/MainActivity.kt,d\2\d249eb1e17af0af1a8aa23f5b20c01cb2003b777
+o
+?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta02.kt,8\7\8747d688dea3c6c3f8e02311ee6d170dddaed63d
+o
+?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta03.kt,9\c\9c3e232cda5870ef52e9b48961d54323889b4882
