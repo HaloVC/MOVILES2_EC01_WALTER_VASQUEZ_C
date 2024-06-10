@@ -91,11 +91,11 @@ fun MenuScreen(navController: NavController) {
             MySpace(16)
             Button(
                 onClick = {
-                    navController.navigate("")
+                    navController.navigate("calcular")
 
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFF299116),
+                    containerColor = Color(0xFF00CC99),
                     contentColor = Color.White
                 ),
                 modifier = Modifier

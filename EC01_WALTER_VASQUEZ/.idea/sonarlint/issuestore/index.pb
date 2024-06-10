@@ -11,3 +11,5 @@ o
 ?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta02.kt,8\7\8747d688dea3c6c3f8e02311ee6d170dddaed63d
 o
 ?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta03.kt,9\c\9c3e232cda5870ef52e9b48961d54323889b4882
+o
+?app/src/main/java/pe/edu/idat/ec01_walter_vasquez/Pregunta04.kt,c\a\caea8e271cf00088130986fd8769b44136e2f8a7
